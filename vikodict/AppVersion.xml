@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="AppVersion">1.5-14.10.24</string>
+    <string name="WhatNew">Cập nhật dữ liệu.&lt;br>Thay đổi giao diện.&lt;br>Giảm dung lượng data</string>
+    <string name="HanVietVersion">2014.10.24</string>
+    <string name="NguphapVersion">2014.10.30</string>
+    <string name="WordVersion">2014.10.24</string>
+</map>
