@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="AppVersion">2.0.5</string>
+    <string name="AppVersion">2.0.6</string>
     <string name="WhatNew">-Cải thiện tính năng tìm kiếm từ.\n-Thêm tùy chọn tìm kiếm ví dụ...</string>
     <string name="HanVietVersion">2014.11.02</string>
     <string name="NguphapVersion">2014.11.02</string>
