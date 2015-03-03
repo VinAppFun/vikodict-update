@@ -1,6 +1,6 @@
 Update Vikodict
-2.1.0
-- Thêm chức năng dịch câu, văn bản...<br>- Thiết kế lại giao diện.<br>- Đảm bảo chạy tốt trên tất cả dòng máy.<br><br>- 텍스트, 문장 번역 기능 추가됨.<br>- 디자인 인터페이스.<br>- 모든 모델에서 잘 실행됨.
+2.1.1
+- Fix lỗi trên một số dòng máy.<br>- Fix lỗi font.<br><br>- 일부 모델에 나타난 오류 수정됨.
 2014.11.02
 2014.11.02
 2014.11.02
