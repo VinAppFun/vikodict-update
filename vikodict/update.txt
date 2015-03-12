@@ -1,5 +1,5 @@
 Update Vikodict
-2.1.1
+2.1.2
 - Tự động tải dữ liệu khi chạy lần đầu.<br>- Fix một số lỗi phát sinh trước.<br><br>- 일부 모델에 나타난 오류 수정됨.
 2014.11.02
 2014.11.02
