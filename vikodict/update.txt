@@ -1,6 +1,6 @@
 Update Vikodict
 2.1.6
-- Fix lỗi phát âm<br>Fix lỗi dịch chậm, lag trên một số máy<br>- 발음 기능이 수정됩니다.<br>- 일부 장치에 지연을 수정됩니다.
+- Fix lỗi phát âm<br>- Fix lỗi dịch chậm, lag trên một số máy<br>- 발음 기능이 수정됩니다.<br>- 일부 장치에 지연을 수정됩니다.
 2014.11.02
 2014.11.02
 2014.11.02
