@@ -1,6 +1,6 @@
 Update Vikodict
 2.1.7
-- Fix khởi động chậm, lỗi phần lịch sử<br>- 버그 수정됩니다
+-Fix lỗi chậm khi nhập từ tìm kiếm<br>-Fix lỗi xuất hiện trên một số thiết bị<br>-검색 입력 할 때 느리게 하는 버그가 수정됨<br>-버그 수정됨
 2014.11.02
 2014.11.02
 2014.11.02
