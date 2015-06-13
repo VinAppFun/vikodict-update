@@ -1,6 +1,6 @@
 Update Vikodict
 2.1.9
--Thêm tính năng tra từ nhanh (Quick Search)<br>-Fix lỗi khi mở một số từ<br>-Quick Search 추가<br>-버그 수정됨
+-Nhận dạng giọng nói (tiếng Việt & Hàn)<br>-보이스 입력 기능을 추가했다
 2014.11.02
 2014.11.02
 2014.11.02
