@@ -1,6 +1,6 @@
 Update Vikodict
-2.2.0
--Nhận dạng giọng nói (tiếng Việt & Hàn)<br>-보이스 입력 기능을 추가했다
+2.2.1
+-Fix lỗi phiên bản PRO<br>-ViKoDict PRO에 생긴 버그 수정됨
 2014.11.02
 2014.11.02
 2014.11.02
