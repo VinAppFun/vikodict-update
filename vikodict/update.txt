@@ -1,6 +1,6 @@
 Update Vikodict
-2.2.1
--Fix lỗi phiên bản PRO<br>-ViKoDict PRO에 생긴 버그 수정됨
+2.2.2
+-Fix lỗi dịch, phát âm<br>-발음, 번역에 생긴 버그 수정됨
 2014.11.02
 2014.11.02
 2014.11.02
