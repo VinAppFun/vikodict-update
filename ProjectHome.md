@@ -1,0 +1,1 @@
+vikodict-update
